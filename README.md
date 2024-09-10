@@ -4,4 +4,5 @@ A script to interpret csv files provided by HSBC to a matplotlib graph and save 
 
 Simply download a .csv from your HSBC account page on HSBC.co.uk, place it in the /data folder with the name `account_data.csv` and run the application and it will provide you with a graph of your balance over time.
 
-![alt text](https://github.com/[Woodenman23]/[financier]/blob/[master]/output/balance_plot.png?raw=true)
+Here is an example of the output: 
+![Balance Plot](https://raw.githubusercontent.com/Woodenman23/financier/master/output/balance_plot.png)
